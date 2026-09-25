@@ -41,5 +41,4 @@ I'm a Computer Science student at Carleton University with a minor in Physics, a
 ### 📫 Let's Connect
 
 * **LinkedIn:** [linkedin.com/in/omartoure/](https://www.linkedin.com/in/omartoure/)
-* **Email:** o.s.toure72@gmail.com
-* **Website / Portfolio:** [mysty-exe.github.io](https://github.com/Mysty-exe)
+* **Website / Portfolio:** [omartoure.dev](https://omartoure.dev)
