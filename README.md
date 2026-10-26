@@ -16,7 +16,7 @@ I'm a Computer Science student at Carleton University with a minor in Physics, a
 ---
 
 ### 🚀 Featured Projects
-* **[Myst Compiler](https://github.com/Mysty-exe/Myst-Compiler)** (C/C++, GLSL)
+* **[Myst Compiler](https://github.com/Mysty-exe/Myst-Compiler)** (C/C++, LLVM)
   * Developed a custom, cross-platform programming language compiler targeting LLVM IR with native machine code generation.
   * Designed an indentation-sensitive lexer/parser, static type checker, control-flow backend, and integrated runtime safety checks.
  
