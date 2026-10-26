@@ -1,9 +1,9 @@
-### Hi there 👋, I'm Omar
+### Hey there 👋, I'm Omar
 
 I'm a Computer Science student at Carleton University with a minor in Physics, and a Software Engineer Intern at Ouster. I specialize in systems-oriented development, performance-focused engineering, and simulation software.
 
-- 🌱 I’m expanding my knowledge in systems programming, embedded systems, and numerical simulation.
-- ⚡ Fun fact: I love building tools and simulations that bridge physics and computer science, like orbital mechanics and custom terminal editors.
+- I’m expanding my knowledge in systems programming, embedded systems, and numerical simulation.
+- Fun fact: I love building tools and simulations that bridge physics and computer science, like orbital mechanics and custom terminal editors.
 
 ---
 
@@ -30,14 +30,6 @@ I'm a Computer Science student at Carleton University with a minor in Physics, a
  
 * **[Myst Editor](https://github.com/Mysty-exe/Myst-Editor)** (C/C++)
   * Built a custom terminal text editor featuring file I/O, syntax highlighting, and multi-file editing.
-
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mysty-exe&show_icons=true&theme=radical&hide_border=true" />
-</p>
 
 ---
 
